@@ -11,7 +11,7 @@ export default function BoothInfo() {
   }
   return <div className={style.boothinfo}>
     <div className={style.boothinfo__map}>
-      <img onClick={onClickBoothMap}className={style.boothmap} src={boothmap} alt="" />
+      <img onClick={onClickBoothMap}className={style.boothmap} src={boothmap} alt="부스지도" />
     </div>
   </div>;
 }
