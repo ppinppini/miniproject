@@ -1,0 +1,6 @@
+.home {
+    background-image: url("../img/메인홈.png");
+    width: 390px;
+    height: 950px;
+    background-size: contain;
+}

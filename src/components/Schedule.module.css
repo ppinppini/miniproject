@@ -1,0 +1,10 @@
+.timetable__box > .timetable{
+    position: relative;
+    color: white;
+    top: 505px;
+}
+.timetable__box {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}

@@ -1,0 +1,6 @@
+.boothmap{
+    background-image: url("../img/부스\ 위치\(세부페이지\).png");
+    width: 330px;
+    height: 700px;
+    background-size: contain;
+} 

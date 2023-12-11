@@ -1,0 +1,16 @@
+.button__box > .button {
+  color: wheat;
+  width: 216px;
+  height: 33px;
+
+  margin-top: 30px;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  cursor: pointer;
+}
+
+.button__box {
+  position: relative;
+  top: 600px;
+}
+
