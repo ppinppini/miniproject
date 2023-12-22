@@ -59,7 +59,7 @@
     "webpack-manifest-plugin": "^4.0.2",
     "workbox-webpack-plugin": "^6.4.1"
   },
-  "homepage": "https://ppinppini.github.io/miniproject/",
+  "homepage": ".",
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
@@ -72,7 +72,6 @@
       "react-app",
       "react-app/jest"
     ]
-   
   },
   "browserslist": {
     "production": [
@@ -143,5 +142,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
-  
 }
