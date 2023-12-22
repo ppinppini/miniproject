@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ppinppini/miniproject.git/static/css/main.fc74e9e5.css",
-    "main.js": "/ppinppini/miniproject.git/static/js/main.bb4dea41.js",
-    "static/media/부스정보.png": "/ppinppini/miniproject.git/static/media/부스정보.077fdb72bdc721445226.png",
-    "static/media/공연 정보.png": "/ppinppini/miniproject.git/static/media/공연 정보.2c60c25530384612701f.png",
-    "static/media/만든 사람들.png": "/ppinppini/miniproject.git/static/media/만든 사람들.31465c4a87fb0fbe8b31.png",
-    "static/media/메인홈.png": "/ppinppini/miniproject.git/static/media/메인홈.6949752c8701fe383db1.png",
-    "static/media/부스 위치(세부페이지).png": "/ppinppini/miniproject.git/static/media/부스 위치(세부페이지).a737da1585a90b6bdc29.png",
-    "static/media/부스지도.png": "/ppinppini/miniproject.git/static/media/부스지도.78227567f17efeca5595.png",
-    "index.html": "/ppinppini/miniproject.git/index.html",
-    "main.fc74e9e5.css.map": "/ppinppini/miniproject.git/static/css/main.fc74e9e5.css.map",
-    "main.bb4dea41.js.map": "/ppinppini/miniproject.git/static/js/main.bb4dea41.js.map"
+    "main.css": "./static/css/main.f6d9c6a8.css",
+    "main.js": "./static/js/main.f5ad8503.js",
+    "static/media/부스정보.png": "./static/media/부스정보.077fdb72bdc721445226.png",
+    "static/media/공연 정보.png": "./static/media/공연 정보.2c60c25530384612701f.png",
+    "static/media/만든 사람들.png": "./static/media/만든 사람들.31465c4a87fb0fbe8b31.png",
+    "static/media/메인홈.png": "./static/media/메인홈.6949752c8701fe383db1.png",
+    "static/media/부스 위치(세부페이지).png": "./static/media/부스 위치(세부페이지).a737da1585a90b6bdc29.png",
+    "static/media/부스지도.png": "./static/media/부스지도.78227567f17efeca5595.png",
+    "index.html": "./index.html",
+    "main.f6d9c6a8.css.map": "./static/css/main.f6d9c6a8.css.map",
+    "main.f5ad8503.js.map": "./static/js/main.f5ad8503.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc74e9e5.css",
-    "static/js/main.bb4dea41.js"
+    "static/css/main.f6d9c6a8.css",
+    "static/js/main.f5ad8503.js"
   ]
 }
