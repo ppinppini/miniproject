@@ -8,7 +8,7 @@ import Boothmap from "./pages/Boothmap";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/boothinfo" element={<BoothInfo></BoothInfo>}></Route>
